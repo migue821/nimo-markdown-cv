@@ -21,7 +21,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## Education3
 
 ### **Carnegie Mellon University** `2018.9 -`
 
